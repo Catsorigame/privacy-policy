@@ -1,5 +1,5 @@
 {
-  "version": "1.8.3",
-  "versionCode": 12,
-  "message": "🎨 렌더링 버그 수정 — 투명 현상 해결"
+  "version": "1.8.4",
+  "versionCode": 13,
+  "message": "🔔 업데이트 알림 수정, 진화카드 밸런스 조정"
 }
