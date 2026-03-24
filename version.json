@@ -1,5 +1,5 @@
 {
-  "version": "1.8.7",
-  "versionCode": 16,
-  "message": "🐹 두더지 렌더링 버그 수정, 지상펫 스킬 쿨타임 단축"
+  "version": "1.8.8",
+  "versionCode": 17,
+  "message": "🦔 펫 이펙트 강화, 공포 속도 조정, 스프라이트 크기 개선"
 }
