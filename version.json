@@ -1,5 +1,5 @@
 {
-  "version": "1.9.4",
-  "versionCode": 22,
-  "message": "🖥️ FPS 설정 추가 (30/45/60), 화면 깜빡임 수정"
+  "version": "1.9.5",
+  "versionCode": 23,
+  "message": "⚔️ 밸런스 대개편 — HP 스케일링 완만 곡선, 스폰 최적화, XP 보정"
 }
