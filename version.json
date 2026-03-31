@@ -1,5 +1,5 @@
 {
-  "version": "2.0.1",
-  "versionCode": 29,
-  "message": "🗺️ 맵 타일 스프라이트 적용, 코드 리팩토링"
+  "version": "2.0.2",
+  "versionCode": 30,
+  "message": "🗺️ 맵 타일 스프라이트 적용, UI 가독성 개선"
 }
