@@ -1,5 +1,5 @@
 {
-  "version": "1.9.5",
-  "versionCode": 23,
-  "message": "⚔️ 밸런스 대개편 — HP 스케일링 완만 곡선, 스폰 최적화, XP 보정"
+  "version": "1.9.6",
+  "versionCode": 24,
+  "message": "☄️ 메테오 펀치 이펙트 개선, 모드 해금 조건 팝업, 하드엔드리스 해금조건 변경"
 }
