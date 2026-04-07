@@ -1,5 +1,5 @@
 {
-  "version": "2.1.7",
-  "versionCode": 42,
-  "message": "🐾 앱 아이콘 크기 수정, 보스 ID 매핑, 맵 전환 타이밍 조정, FPS 60 기본"
+  "version": "2.1.8",
+  "versionCode": 43,
+  "message": "🎮 UI 도트풍 통일, 보스 경고 게이지, 터치 반응 개선, 캣타워골렘 갈색 패턴"
 }
