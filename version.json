@@ -1,5 +1,5 @@
 {
-  "version": "2.1.4",
-  "versionCode": 39,
-  "message": "🐾 NYAN SURVIVOR로 타이틀 변경, 보스 스프라이트 전종 적용, 초반 XP 조정"
+  "version": "2.1.5",
+  "versionCode": 40,
+  "message": "🐾 보스 스프라이트 전종 적용, www 에셋 누락 수정, 초반 XP 조정"
 }
