@@ -1,5 +1,5 @@
 {
-  "version": "2.1.5",
-  "versionCode": 40,
-  "message": "🐾 보스 스프라이트 전종 적용, www 에셋 누락 수정, 초반 XP 조정"
+  "version": "2.1.6",
+  "versionCode": 41,
+  "message": "🐟 보스 ID 기반 매핑, 우주참치 보스 추가, 에셋 누락 수정"
 }
