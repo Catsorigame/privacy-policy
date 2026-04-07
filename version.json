@@ -1,5 +1,5 @@
 {
-  "version": "2.1.6",
-  "versionCode": 41,
-  "message": "🐟 보스 ID 기반 매핑, 우주참치 보스 추가, 에셋 누락 수정"
+  "version": "2.1.7",
+  "versionCode": 42,
+  "message": "🐾 앱 아이콘 크기 수정, 보스 ID 매핑, 맵 전환 타이밍 조정, FPS 60 기본"
 }
