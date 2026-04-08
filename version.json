@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
-  "versionCode": 45,
-  "message": "🏆 Firebase 랭킹 시스템 추가, 냥토스 처치 클리어 조건, 부동소수점 수정"
+  "version": "2.2.1",
+  "versionCode": 46,
+  "message": "🏆 랭킹 캐릭터 스프라이트 표시"
 }
