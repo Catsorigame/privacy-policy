@@ -1,5 +1,5 @@
 {
-  "version": "2.1.9",
-  "versionCode": 44,
-  "message": "🎮 카오스데몬 보라구체 패턴, 용암타일 수정, UI 터치반응 개선"
+  "version": "2.2.0",
+  "versionCode": 45,
+  "message": "🏆 Firebase 랭킹 시스템 추가, 냥토스 처치 클리어 조건, 부동소수점 수정"
 }
