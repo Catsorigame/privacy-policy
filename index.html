@@ -9,33 +9,64 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; m
 h1 { color: #1a1a2e; border-bottom: 2px solid #eee; padding-bottom: 10px; }
 h2 { color: #2a2a4e; margin-top: 30px; }
 p { margin: 10px 0; }
+ul { margin: 10px 0; padding-left: 20px; }
+li { margin: 6px 0; }
 .date { color: #888; font-size: 14px; }
 </style>
 </head>
 <body>
 <h1>Nyan Survivor 개인정보처리방침</h1>
-<p class="date">시행일: 2026년 3월 19일</p>
+<p class="date">시행일: 2026년 4월 9일</p>
 
 <h2>1. 수집하는 개인정보</h2>
-<p>Nyan Survivor(이하 "앱")는 <strong>개인정보를 수집하지 않습니다.</strong></p>
-<p>앱은 서버 통신 없이 기기 내에서만 동작하며, 게임 진행 데이터는 기기의 로컬 저장소(localStorage)에만 저장됩니다.</p>
+<p>Nyan Survivor(이하 "앱")는 다음과 같은 정보를 수집할 수 있습니다.</p>
+<ul>
+  <li><strong>익명 인증 식별자</strong>: Firebase Authentication에서 자동 생성되는 익명 사용자 ID. 개인을 식별할 수 없습니다.</li>
+  <li><strong>Google 계정 정보 (선택)</strong>: 사용자가 Google 로그인을 선택한 경우에 한해 이름(displayName)과 이메일이 수집됩니다.</li>
+  <li><strong>게임 기록</strong>: 닉네임, 캐릭터, 웨이브, 처치 수, 레벨, 플레이 시간 — 랭킹 시스템에 사용됩니다.</li>
+</ul>
+<p>앱은 사용자의 위치, 연락처, 사진 등 민감한 개인정보를 수집하지 않습니다.</p>
 
-<h2>2. 제3자 제공</h2>
-<p>수집하는 개인정보가 없으므로 제3자에게 제공하는 정보도 없습니다.</p>
+<h2>2. 수집 목적</h2>
+<ul>
+  <li>온라인 랭킹 시스템 운영</li>
+  <li>게임 진행도 및 기록 저장</li>
+  <li>업데이트 버전 확인</li>
+</ul>
 
-<h2>3. 데이터 저장</h2>
-<p>게임 진행도, 설정 등은 기기 로컬 저장소에만 저장되며, 앱 삭제 시 함께 삭제됩니다. 외부 서버로 전송되지 않습니다.</p>
+<h2>3. 데이터 저장 및 보관</h2>
+<ul>
+  <li><strong>로컬 저장소</strong>: 게임 진행도, 설정, 영구 업그레이드 등은 기기의 로컬 저장소(localStorage)에 저장되며 앱 삭제 시 함께 삭제됩니다.</li>
+  <li><strong>클라우드 저장소</strong>: 랭킹 데이터는 Google Firebase Firestore에 저장되며, 사용자가 직접 삭제 요청 시 제거할 수 있습니다.</li>
+</ul>
 
-<h2>4. 광고 및 분석</h2>
-<p>앱은 광고 SDK나 분석 도구를 사용하지 않습니다.</p>
+<h2>4. 제3자 제공</h2>
+<p>앱은 수집한 정보를 제3자에게 판매하거나 제공하지 않습니다. 단, 다음 서비스 제공자가 데이터를 처리할 수 있습니다.</p>
+<ul>
+  <li><strong>Google Firebase</strong> (Authentication, Firestore) — 익명/Google 인증 및 랭킹 데이터 저장
+    <br>개인정보처리방침: <a href="https://policies.google.com/privacy" target="_blank">https://policies.google.com/privacy</a></li>
+</ul>
 
-<h2>5. 아동 개인정보</h2>
-<p>앱은 아동을 포함한 모든 연령의 사용자로부터 개인정보를 수집하지 않습니다.</p>
+<h2>5. 광고 및 분석</h2>
+<p>앱은 광고 SDK를 사용하지 않습니다. Firebase Analytics는 사용되지 않으며, 사용자의 행동을 추적하지 않습니다.</p>
 
-<h2>6. 변경사항</h2>
+<h2>6. 아동 개인정보</h2>
+<p>앱은 만 13세 미만 아동을 대상으로 하지 않습니다. 익명 인증을 사용하는 경우 개인을 식별할 수 있는 정보가 수집되지 않으며, Google 로그인은 사용자의 명시적인 선택에 따라 진행됩니다.</p>
+
+<h2>7. 사용자 권리</h2>
+<ul>
+  <li>언제든지 앱을 삭제하여 로컬 데이터를 삭제할 수 있습니다.</li>
+  <li>랭킹 데이터(닉네임, 점수) 삭제를 원할 경우 아래 이메일로 요청해 주세요.</li>
+  <li>Google 로그인 연결 해제를 원할 경우 앱 내 설정에서 로그아웃하실 수 있습니다.</li>
+</ul>
+
+<h2>8. 보안</h2>
+<p>모든 통신은 HTTPS로 암호화되며, Firebase의 보안 규칙에 따라 데이터가 보호됩니다.</p>
+
+<h2>9. 변경사항</h2>
 <p>본 방침이 변경될 경우 이 페이지를 통해 공지합니다.</p>
 
-<h2>7. 문의</h2>
-<p>개인정보처리방침에 관한 문의: <a href="mailto:idontknowdb@gmail.com">idontknowdb@gmail.com</a></p>
+<h2>10. 문의</h2>
+<p>개인정보처리방침에 관한 문의 또는 데이터 삭제 요청: <a href="mailto:idontknowdb@gmail.com">idontknowdb@gmail.com</a></p>
 </body>
 </html>
