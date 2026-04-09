@@ -1,5 +1,5 @@
 {
-  "version": "2.3.6",
-  "versionCode": 55,
-  "message": "🔐 닉네임 Firebase 저장, 닉네임 변경 (10만 참치캔), Google 로그인 안정화"
+  "version": "2.3.7",
+  "versionCode": 56,
+  "message": "🔐 Google 로그인 자동 복원, 로그인 상태 표시 개선"
 }
