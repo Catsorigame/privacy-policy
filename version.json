@@ -1,5 +1,5 @@
 {
-  "version": "2.3.7",
-  "versionCode": 56,
-  "message": "🔐 Google 로그인 자동 복원, 로그인 상태 표시 개선"
+  "version": "2.3.9",
+  "versionCode": 58,
+  "message": "🔐 로딩 화면 추가, Google 로그인 자동 복원 안정화"
 }
