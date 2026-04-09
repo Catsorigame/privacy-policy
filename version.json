@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
-  "versionCode": 49,
-  "message": "🔐 Google 로그인 추가, 게스트/Google 로그인 게이트, 닉네임 설정"
+  "version": "2.3.1",
+  "versionCode": 50,
+  "message": "🔐 Google 로그인 클라이언트 ID 수정"
 }
