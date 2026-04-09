@@ -1,5 +1,5 @@
 {
-  "version": "2.3.8",
-  "versionCode": 57,
-  "message": "🔐 로딩 화면 추가, Google 로그인 자동 복원 안정화"
+  "version": "2.3.9",
+  "versionCode": 58,
+  "message": "🐈‍⬛ 새 앱 아이콘, 로딩 화면, 업데이트 체크 시점 조정"
 }
