@@ -1,5 +1,5 @@
 {
-  "version": "2.3.2",
-  "versionCode": 51,
-  "message": "🔐 Play 앱 서명 SHA-1 등록, 설정에 로그인/로그아웃 추가"
+  "version": "2.3.6",
+  "versionCode": 55,
+  "message": "🔐 닉네임 Firebase 저장, 닉네임 변경 (10만 참치캔), Google 로그인 안정화"
 }
