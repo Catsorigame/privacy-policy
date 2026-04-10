@@ -1,5 +1,5 @@
 {
-  "version": "2.3.15",
-  "versionCode": 64,
-  "message": "☁️ 클라우드 세이브 자동 로드, 설정 저장, 기본값 초기화"
+  "version": "2.3.16",
+  "versionCode": 65,
+  "message": "⚙️ 설정 버튼 active 버그 수정, 조이스틱 선택 시 다른 설정 풀림 해결"
 }
