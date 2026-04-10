@@ -1,5 +1,5 @@
 {
-  "version": "2.3.13",
-  "versionCode": 62,
-  "message": "⚙️ 설정 UI 정렬 개선, BGM 온오프, 버튼 균등 배치"
+  "version": "2.3.14",
+  "versionCode": 63,
+  "message": "☁️ 클라우드 세이브, 탄막 가시성 강화, 동결장판 빨간색 통일"
 }
