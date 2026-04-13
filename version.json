@@ -1,5 +1,5 @@
 {
-  "version": "2.3.20",
-  "versionCode": 69,
-  "message": "⚔️ 노말 HP 하향, Google 로그인 수정, 시루 카드 개편"
+  "version": "2.3.21",
+  "versionCode": 70,
+  "message": "🐱 캐릭터 대기모션 애니메이션, 돌진펀치 넉백/원 제거"
 }
